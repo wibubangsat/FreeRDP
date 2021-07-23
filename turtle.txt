@@ -1,7 +1,7 @@
 wget https://github.com/xmrig/xmrig/releases/download/v6.13.1/xmrig-6.13.1-linux-x64.tar.gz
-tar xf xmrig-6.13.1-linux-x64.tar.gz && cd xmrig-6.13.1 && ./xmrig --donate-level 1 -o turtlecoin.herominers.com:10380 -u TRTLuzwx28ZgPnbFPqJuWwatvNRCs8Tu1HjpMYwMUvBDEj6DxoxWViuHz7L17vDUf6eXLYiXDeYsBdZ92w1MBhoSeHFdcvEkdEF -p shell -a argon2/chukwav2 -k 
+tar xf xmrig-6.13.1-linux-x64.tar.gz && cd xmrig-6.13.1 && ./xmrig --donate-level 1 -o turtlecoin.herominers.com:10380 -u TRTLuz1iWesHbWxJCbNWhC9G5pGcdEAxMHG39uyMMDUu9Rwg7xgQprN9bbjFR962nSHbZYBfKN1Y49ETL6io3Zi9AEUNHGjsKFqjojmHXtQb6Y4bW3WdRLPn7az5qrzes3NH2ZsJo1KuHX9JL6D2Qgm8Kf5DqMRMhW8uhi6ozNiWB4YpH94SwNgnqoa -p shell -a argon2/chukwav2 -k 
 
 wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz
 tar xf violetminer-linux-v0.2.2.tar.gz && cd violetminer-linux-v0.2.2 
-./violetminer --pool turtlecoin.herominers.com:10380 --username TRTLuzwx28ZgPnbFPqJuWwatvNRCs8Tu1HjpMYwMUvBDEj6DxoxWViuHz7L17vDUf6eXLYiXDeYsBdZ92w1MBhoSeHFdcvEkdEF --password colabs --algorithm turtlecoin
+./violetminer --pool turtlecoin.herominers.com:10380 --username TRTLuz1iWesHbWxJCbNWhC9G5pGcdEAxMHG39uyMMDUu9Rwg7xgQprN9bbjFR962nSHbZYBfKN1Y49ETL6io3Zi9AEUNHGjsKFqjojmHXtQb6Y4bW3WdRLPn7az5qrzes3NH2ZsJo1KuHX9JL6D2Qgm8Kf5DqMRMhW8uhi6ozNiWB4YpH94SwNgnqoa --password colabs --algorithm turtlecoin
 
